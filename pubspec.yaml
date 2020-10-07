@@ -41,7 +41,13 @@ dependencies:
   firebase_storage: ^4.0.0
   firebase_database: ^4.0.0
   cloud_firestore: ^0.14.0+2
-  firebase: ^7.14.0
+  firebase: null
+  slugify2: ^0.2.1
+  image_picker: null
+  random_color: ^1.0.5
+  transparent_image: ^1.0.0
+  flutter_spinkit: ^4.1.2+1
+  flutter_breadcrumb: ^0.1.2
 
 dev_dependencies:
   flutter_test:
@@ -56,28 +62,7 @@ flutter:
   # the material Icons class.
   uses-material-design: true
   assets:
-    - assets/images/image1.jpg
-    - assets/images/image2.jpeg
-    - assets/images/image3.jpg
-    - assets/images/image4.jpeg
-    - assets/images/image5.jpeg
-    - assets/icons/formal.png
-    - assets/icons/informal.png
-    - assets/icons/shoe.jpg
-    - assets/icons/tshirt.png
-    - assets/icons/jeans.png
-    - assets/icons/accessories.jpg
-    - assets/icons/dress.png
-    - assets/products/white_shirt1.jpeg
-    - assets/products/white_shirt2.jpeg
-    - assets/products/white_shirt3.jpeg
-    - assets/products/white_shirt4.jpeg
-    - assets/products/pants2.jpeg
-    - assets/products/blazer1.jpeg
-    - assets/products/blazer2.jpeg
-    - assets/products/dress2.jpeg
-    - assets/products/skt1.jpeg
-    - assets/products/dress1.jpeg
+    - assets/images/product-placeholder.png
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
   # For details regarding adding assets from package dependencies, see
@@ -101,3 +86,4 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
+

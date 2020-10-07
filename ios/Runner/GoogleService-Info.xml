@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>37607051021-cr4t8csipgjr5j92sa07sgroklg1i6t6.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.37607051021-cr4t8csipgjr5j92sa07sgroklg1i6t6</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>37607051021-ib3v964utc1121tlv5086av4cjdoe23j.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC8o7Tw33W4uC7_ZdyynjIE9v1Jw4THOV0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>37607051021</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.ktlabs</string>
+	<key>PROJECT_ID</key>
+	<string>ktlabs-9aed7</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ktlabs-9aed7.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:37607051021:ios:3f2dcd8db4c2db339c6a44</string>
+	<key>DATABASE_URL</key>
+	<string>https://ktlabs-9aed7.firebaseio.com</string>
+</dict>
+</plist>

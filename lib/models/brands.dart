@@ -1,14 +1,12 @@
 import 'package:flutter/material.dart';
 
-class CategoryModel {
+class BrandModel {
   final String id;
   final String name;
   final String slug;
-  final String parentId;
-  CategoryModel({
+  BrandModel({
     @required this.id,
     @required this.name,
     @required this.slug,
-    this.parentId,
   });
 }

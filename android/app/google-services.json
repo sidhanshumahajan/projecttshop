@@ -1,0 +1,41 @@
+{
+  "project_info": {
+    "project_number": "37607051021",
+    "firebase_url": "https://ktlabs-9aed7.firebaseio.com",
+    "project_id": "ktlabs-9aed7",
+    "storage_bucket": "ktlabs-9aed7.appspot.com"
+  },
+  "client": [{
+    "client_info": {
+      "mobilesdk_app_id": "1:37607051021:android:6fdd7e9cf5a8d70d9c6a44",
+      "android_client_info": {
+        "package_name": "com.example.ktlabs"
+      }
+    },
+    "oauth_client": [{
+        "client_id": "37607051021-ib3v964utc1121tlv5086av4cjdoe23j.apps.googleusercontent.com",
+        "client_type": 1,
+        "android_info": {
+          "package_name": "com.example.ktlabs",
+          "certificate_hash": "de3ad7873e45ddaf7aa5f1228cfe744e480b791c"
+        }
+      },
+      {
+        "client_id": "37607051021-t00v0p4g6a3mlt8df4jn5t3eb2kc6bc3.apps.googleusercontent.com",
+        "client_type": 3
+      }
+    ],
+    "api_key": [{
+      "current_key": "AIzaSyCZLfApo2TGiktBwh5W20oGr7kx4fiAUVo"
+    }],
+    "services": {
+      "appinvite_service": {
+        "other_platform_oauth_client": [{
+          "client_id": "37607051021-t00v0p4g6a3mlt8df4jn5t3eb2kc6bc3.apps.googleusercontent.com",
+          "client_type": 3
+        }]
+      }
+    }
+  }],
+  "configuration_version": "1"
+}
